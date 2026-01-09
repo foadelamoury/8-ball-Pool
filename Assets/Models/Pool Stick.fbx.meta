@@ -3,7 +3,17 @@ guid: c13c07f0e1f941f44862f78e608f1a17
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3D Walnut - Glossy
+    second: {fileID: 2100000, guid: d90434b4ba073004d9676be5de0302a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ABS (White)
+    second: {fileID: 2100000, guid: 2b3578cec4d9dc6408479c79e9eb145c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
